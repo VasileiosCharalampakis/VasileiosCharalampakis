@@ -39,7 +39,7 @@ I enjoy solving problems, learning independently, and building projects that sho
 - Exploring **new programming languages**  
 - Building my portfolio with personal projects  
 
-# 🤔 Fun Fact  
+# 🎉 Fun Fact  
 I completed my military service as **I1**, where I developed discipline, problem-solving, and teamwork skills.  
 
 ---
