@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm @Vasileios Charalampakis!  
 
-# 🚀 Aspiring Software Developer | Passionate about learning, building, and growing in the world of programming and technology.  
+# 🚀 Aspiring Software Developer 
+Passionate about learning, building, and growing in the world of programming and technology.  
 
 # 🌱 About Me  
 I recently started my journey as a programmer, focusing on **web development** while being open to exploring other domains in technology. 
@@ -40,9 +41,9 @@ I enjoy solving problems, learning independently, and building projects that sho
 - Building my portfolio with personal projects  
 
 # 🎉 Fun Fact  
-I completed my military service as **I1**, where I developed discipline, problem-solving, and teamwork skills.  
+I completed my mandatory military service in the Greek Army.
+I gained valuable skills such as discipline, leadership, teamwork, and problem-solving under pressure.  
 
----
 
-Feel free to connect or collaborate with me! 😊
+## Feel free to connect or collaborate with me! 😊
 
