@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @Vasileios Charalampakis!  
 
-# 🚀 Aspiring Software Developer 
+# 🚀 Aspiring Software Engineer 
 Passionate about learning, building, and growing in the world of programming and technology.  
 
 # 🌱 About Me  
