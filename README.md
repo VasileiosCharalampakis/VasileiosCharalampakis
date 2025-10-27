@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @Vasileios Charalampakis!  
 
-# 🚀 Aspiring Software Engineer 
+# 🚀 Aspiring Software Engineer / Junior Web Designer / Junior Web Developer
 Passionate about learning, building, and growing in the world of programming and technology.  
 
 # 🌱 About Me  
@@ -15,7 +15,7 @@ I enjoy solving problems, learning independently, and building projects that sho
 - MATLAB  
 
 **Web Development**  
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript, Wordpress
 - PHP (Basic)  
 
 **Tools & Technologies**  
@@ -32,8 +32,9 @@ I enjoy solving problems, learning independently, and building projects that sho
 - Communication Skills  
 
 # 📫 How to Reach Me  
-- **Email:** [billcharalampakis@gmail.com]  
-- **LinkedIn:** [www.linkedin.com/in/vasileios-charalampakis)    
+- **Email:** billcharalampakis@gmail.com 
+- **LinkedIn:** www.linkedin.com/in/vasileios-charalampakis
+- **Website:** charalampakis.gr  
 
 # 🌱 Currently Learning  
 - Advanced concepts in **web development**  
