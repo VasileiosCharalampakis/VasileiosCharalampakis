@@ -34,7 +34,7 @@ I enjoy solving problems, learning independently, and building projects that sho
 # 📫 How to Reach Me  
 - **Email:** billcharalampakis@gmail.com 
 - **LinkedIn:** www.linkedin.com/in/vasileios-charalampakis
-- **Website:** charalampakis.gr  
+- **Website:** [charalampakis.gr](https://charalampakis.gr/)  
 
 # 🌱 Currently Learning  
 - Advanced concepts in **web development**  
